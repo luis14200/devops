@@ -8,11 +8,11 @@ section{
 	text-align: center;
 	height: 100vh;
     background-color: rgb(38,123,213);
-    background-image: linear-gradient(rgb(38,123,213),rgb(33,237,166);
+    background-image: linear-gradient(rgb(38,123,213),rgb(33,237,166));
 }
 .wrapper{
 	display: table-cell;
-	vertical-aling: middle;
+	vertical-align: middle;
 }
 h1{
 	font-size:100px;
